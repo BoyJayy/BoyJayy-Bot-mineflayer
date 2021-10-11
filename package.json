@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "mineflayer-armor-manager": "^1.4.0",
+    "mineflayer-pathfinder": "^1.4.0",
+    "mineflayer-pvp": "^1.0.2"
+  }
+}
