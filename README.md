@@ -2,7 +2,7 @@
  
 
 -ENG-
-1) node.js you go to the main in the single world, open the port for the network, open index.js through Visial Studio Code or a notepad, insert the port into the port and write 'localhost' in the host, start the baht (for the single player)
+1) node.js you go to the main in the single world, open the port for the network, open index.js through Visial Studio Code or a notepad, insert the port into the port and write 'localhost' in the host, start the .bat (for the single player)
 
 2) download node.js if you don't have, open index.js through Visial Studio Code or notepad, insert port 25565 into port and ip into host and run the batch file (pirate server)
 
