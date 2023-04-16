@@ -15,7 +15,7 @@ bot.loadPlugin(armorManager)
 bot.loadPlugin(pathfinder)
 
 bot.on('spawn', () => {
-    bot.chat('>Я хохол и еблан простите блин, мои комманды #help');
+    bot.chat('>#help пропиши бля');
 });
 
 bot.on('chat', (message) => {
